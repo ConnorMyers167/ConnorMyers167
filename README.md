@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ConnorMyers167
-- 👀 I’m interested in making ggame with unity
-- 🌱 I’m currently learning C# and unity
+- 👀 I’m interested in becoming the god of computer science
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
